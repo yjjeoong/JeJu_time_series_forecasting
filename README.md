@@ -23,6 +23,6 @@
 
 #### [규칙]
 - 심사 기준: RMSE 
-- Public Score: 2023.03.04~2023.03.17의 데이터로 측정 
-- Private Score: 2023.03.04~2023.03.31의 데이터로 측정
+- Public Score: 2023.03.04~2023.03.17의 데이터로 측정 (2주)
+- Private Score: 2023.03.04~2023.03.31의 데이터로 측정 (4주 대회 마감 후 공개)
  ![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/c424c1e0-8691-4ed5-bbdc-cc71a5627099)
