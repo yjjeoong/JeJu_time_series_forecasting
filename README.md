@@ -8,7 +8,6 @@
 - ~~여담이지만 최종제출로 선택했던 파일 말고, 최종 점수 더 높은 예측모델도 존재함. (마감 이후 최종점수 확인 가능)~~
   <br>
   ![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/0424e5a6-063d-4e57-9e71-60a50c8a0df4)
-<br>
   ![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/b2c3fa64-ec87-49c6-ae06-c6a9beaef27e)
 
   <br>
