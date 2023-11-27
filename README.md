@@ -32,7 +32,8 @@
  ![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/c424c1e0-8691-4ed5-bbdc-cc71a5627099)
 
 ## #️⃣ 발표용 자료
-![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/d39af500-24c5-4ca6-ac25-5f508c6bebe7)
+![스크린샷 2023-11-27 102101](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/2d183dab-39d0-4ce8-90ca-ed3b5462de5a)
+
 
 [[B부터N까지] 제주 특산물 가격 예측 AI 경진대회.pdf](https://github.com/yjjeoong/JeJu_time_series_forecasting/files/13468760/B.N.AI.pdf)
 
