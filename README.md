@@ -30,8 +30,9 @@
 - Public Score: 2023.03.04~2023.03.17의 데이터로 측정 (2주)
 - Private Score: 2023.03.04~2023.03.31의 데이터로 측정 (4주 대회 마감 후 공개)
  ![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/c424c1e0-8691-4ed5-bbdc-cc71a5627099)
-  <br>
-  <br>
+<br>
+<br>
+<br>
 ## #️⃣ 발표용 자료
 ![크기변환 스크린샷 2023-11-27 102101](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/97fcdaf6-4230-4ef7-977c-ebb91c04be4c)
 
