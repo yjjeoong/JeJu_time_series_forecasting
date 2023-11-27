@@ -1,6 +1,7 @@
 # JeJu_time_series_forecasting
 ![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/0054bf03-2684-4966-864e-d4591183e95e)
-[(바로가기)] (https://dacon.io/competitions/official/236176/overview/description)
+[대회 바로가기] (https://dacon.io/competitions/official/236176/overview/description)
+
 ## #️⃣ 결과
 -  `최종 순위 1위 🎉`
 - ~~여담이지만 최종제출로 선택했던 파일 말고, 최종 점수 더 높은 예측모델도 존재함. (마감 이후 최종점수 확인 가능)~~
