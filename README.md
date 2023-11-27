@@ -30,11 +30,11 @@
 - Public Score: 2023.03.04~2023.03.17의 데이터로 측정 (2주)
 - Private Score: 2023.03.04~2023.03.31의 데이터로 측정 (4주 대회 마감 후 공개)
  ![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/c424c1e0-8691-4ed5-bbdc-cc71a5627099)
-
+  <br>
+  <br>
 ## #️⃣ 발표용 자료
-![스크린샷 2023-11-27 102101](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/2d183dab-39d0-4ce8-90ca-ed3b5462de5a)
 
-
+![크기변환 스크린샷 2023-11-27 102101](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/ff632fee-2a0e-425b-b619-3e7a3799c600)
 [[B부터N까지] 제주 특산물 가격 예측 AI 경진대회.pdf](https://github.com/yjjeoong/JeJu_time_series_forecasting/files/13468760/B.N.AI.pdf)
 
 
