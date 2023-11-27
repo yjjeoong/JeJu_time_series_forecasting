@@ -32,7 +32,7 @@
  ![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/c424c1e0-8691-4ed5-bbdc-cc71a5627099)
  <br>
  <br>
- <br>
+ 
 
 ## #️⃣ 발표용 자료
 
