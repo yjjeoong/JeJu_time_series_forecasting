@@ -1,7 +1,7 @@
 # JeJu_time_series_forecasting
 ![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/0054bf03-2684-4966-864e-d4591183e95e)
  <br>
-[대회 바로가기](https://dacon.io/competitions/official/236176/overview/description)
+Competition Link : [제주 특산물 가격 예측 AI 경진대회](https://dacon.io/competitions/official/236176/overview/description)
 
 ## #️⃣ 결과
 -  `최종 순위 1위 🎉`
@@ -30,5 +30,3 @@
 - Private Score: 2023.03.04~2023.03.31의 데이터로 측정 (4주 대회 마감 후 공개)
  ![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/c424c1e0-8691-4ed5-bbdc-cc71a5627099)
 
-
-[[B부터N까지] 제주 특산물 가격 예측 AI 경진대회.pdf](https://github.com/yjjeoong/JeJu_time_series_forecasting/files/13468688/B.N.AI.pdf)
