@@ -42,3 +42,4 @@
 [[B부터N까지] 제주 특산물 가격 예측 AI 경진대회.pdf](https://github.com/yjjeoong/JeJu_time_series_forecasting/files/13468760/B.N.AI.pdf)
 
 
+
